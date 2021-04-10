@@ -15,7 +15,7 @@ header: All Post
 		<ul>
 		{% for post in site.posts %}
 			<!-- ORI  -->
-				<li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{site.url}}{{post.url}}.html">{{ post.title }}</a></li>
+				<li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{site.url}}/TAJ{{post.url}}.html">{{ post.title }}</a></li>
 			
 			<!-- <li><a href="{{site.url}}{{post.url}}.html">{{ post.title }}</a></li> -->
 		{% endfor %}
