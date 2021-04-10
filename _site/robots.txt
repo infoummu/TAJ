@@ -1,1 +1,1 @@
-Sitemap: http://192.168.43.178:4002/sitemap.xml
+Sitemap: http://192.168.43.178:4002/TAJ/sitemap.xml

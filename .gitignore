@@ -5,4 +5,4 @@ _plugins/*
 #_posts
 .sass-cac*
 catatan.txt
-
+.jekyll-cache*
