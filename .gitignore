@@ -1,0 +1,8 @@
+# reff
+# _config.yml
+var-jekyll.md
+_plugins/*
+#_posts
+.sass-cac*
+catatan.txt
+
