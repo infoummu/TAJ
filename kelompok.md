@@ -82,7 +82,7 @@ header: Kelompok
 2. MUJAHID, NPM:17041
 3. RAHMAD ARSAD, NPM:17137
 4. SUPRIYADIN HIDAYAT, NPM:17054
-2. FAJRIANI LOLINGA, NPM:17051
+5. FAJRIANI LOLINGA, NPM:17051
 
 
 ***
@@ -138,3 +138,11 @@ header: Kelompok
 3. Junaidi Muhammad 
 4. Thalib Husain
 5. Nurjana Kamarudin
+
+
+#### Kelompok 8
+
+1. Yolki Harsono,  17119
+2. Muhajjir Akbar Sedek, 17027
+3. Kasmil Papalia, 17008
+4. Irawati Ikmal, 17040

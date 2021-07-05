@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Informatika UMMU Page</title>
- <link href="http://192.168.43.178:4002/atom.xml" rel="self"/>
- <id>http://192.168.43.178:4002</id>
- <updated>2021-04-10T18:21:45+09:00</updated>
+ <link href="http://localhost:4001/atom.xml" rel="self"/>
+ <id>http://localhost:4001</id>
+ <updated>2021-07-05T18:38:27+09:00</updated>
  <author>
    <name>Informatika UMMU</name>
    <uri>https://infoummu.github.io/taj</uri>
@@ -15,18 +15,18 @@
 
  <entry>
    <title>Teknologi Antar Jaringan</title>
-   <link href="http://192.168.43.178:4002/KuliahTAJ"/>
-   <id>http://192.168.43.178:4002/KuliahTAJ</id>
+   <link href="http://localhost:4001/KuliahTAJ"/>
+   <id>http://localhost:4001/KuliahTAJ</id>
    <updated>2021-04-04T00:00:00+09:00</updated>
-   <content type="html">&lt;hr /&gt; &lt;h2 id=&quot;pertemuan-empat-04-&quot;&gt;PERTEMUAN EMPAT 04 :&lt;/h2&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Status&lt;/td&gt; &lt;td&gt;: Online&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Waktu&lt;/td&gt; &lt;td&gt;: 06/04/2021&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Tema&lt;/td&gt; &lt;td&gt;: Topologi Jaringan Komputer&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3 id=&quot;tugas-pengganti-pertemuan-ke-4&quot;&gt;Tugas Pengganti Pertemuan ke-4&lt;/h3&gt; &lt;ol&gt; &lt;li&gt; &lt;p&gt;Buat Makalah dengan Judul: &lt;b&gt;Topologi Jaringan Komputer&lt;/b&gt;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Makalah dibuat per Kelompok atau masing-masing kelompok.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Materi yang dibahas dalam makalah meliputi berbagai macam topologi jaringan Komputer, beserta detail perangkat yang diperlukan untuk msing-masing topologi seperti jenis kabel, konektor, dan perangkat penghubung lainnya. Sertakan juga materi koneksi Peer to Peer dan cara Instalasinya...</content>
+   <content type="html">&lt;hr /&gt; &lt;h2 id=&quot;uas-teknologi-antar-jaringan--manajement-jaringan-&quot;&gt;UAS Teknologi Antar Jaringan &amp;amp; Manajement Jaringan :&lt;/h2&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Status&lt;/td&gt; &lt;td&gt;: OnLine&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Waktu&lt;/td&gt; &lt;td&gt;: 05/07/2021&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Tema&lt;/td&gt; &lt;td&gt;: UAS -Teknologi Antar Jaringan&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;pre&gt; &lt;/pre&gt; &lt;p&gt;Disampaikan ke semua mahasiswa bahwa UAS Pengganti Untuk Mata Kuliah Teknologi Antar Jaringan dan Manajement Jaringan sebagai berikut :&lt;/p&gt; &lt;ul&gt; &lt;li&gt;UAS Pengganti bagi mahasiswa yang ambil KP : &lt;ol&gt; &lt;li&gt;Kirim Laporan KP per Kelompok ke saya melalui email&lt;/li&gt; &lt;li&gt;Judul/Subjek/Subject Email-nya : Laporan-KP_NamaKelompok_2021&lt;/li&gt; &lt;li&gt;Sertakan File Laporan dalam bentuk PDF dan Kirim ke elyas.uii14@gmail.com&lt;/li&gt; &lt;/ol&gt; &lt;/li&gt; &lt;li&gt;Untuk...</content>
  </entry>
 
  
 
  <entry>
    <title>This is the Example Page post.</title>
-   <link href="http://192.168.43.178:4002/Example-page"/>
-   <id>http://192.168.43.178:4002/Example-page</id>
+   <link href="http://localhost:4001/Example-page"/>
+   <id>http://localhost:4001/Example-page</id>
    <updated>2017-04-08T00:00:00+09:00</updated>
    <content type="html">&lt;p&gt;&lt;button onclick=&quot;topFunction()&quot; id=&quot;myBtn&quot; title=&quot;Go to top&quot;&gt;Top&lt;/button&gt;&lt;/p&gt; &lt;h2 id=&quot;example-one--link-&quot;&gt;Example One ( Link )&lt;/h2&gt; &lt;h4 id=&quot;ref-lain-&quot;&gt;Ref lain :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;Petunjuk lain untuk jekyll how to : &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;http://jekyllthemes.org/&quot; target=&quot;_blank&quot;&gt;Jekyll Themes&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://mademistakes.com/articles/jekyll-style-guide/&quot; target=&quot;_blank&quot;&gt;Jekyll-how-to-use&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://mademistakes.com/style-guide/&quot; target=&quot;_blank&quot;&gt;Jekyll-style&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;example-two--image-and-var-&quot;&gt;Example Two ( Image and Var )&lt;/h2&gt; &lt;h4 id=&quot;foto-cantik-posisi-kiri&quot;&gt;Foto Cantik posisi kiri&lt;/h4&gt; &lt;p&gt;&lt;img src=&quot;img/cantik-icon.png&quot; alt=&quot;image-title-here&quot; class=&quot;rkiri&quot; /&gt;&lt;/p&gt; &lt;pre&gt; &lt;/pre&gt; &lt;h4 id=&quot;test-image-posisi-kanan&quot;&gt;Test Image posisi kanan&lt;/h4&gt; &lt;p&gt;&lt;img src=&quot;img/cantik-icon.png&quot; alt=&quot;image-title-here&quot; class=&quot;img-responsive rkanan&quot; /&gt;&lt;/p&gt; &lt;pre&gt; &lt;/pre&gt; &lt;h4 id=&quot;use-span-posisi-kiri&quot;&gt;Use SPAN posisi kiri&lt;/h4&gt; &lt;p&gt;&lt;span class=&quot;f-left&quot;&gt; &lt;img src=&quot;img/cantik-icon.png&quot; alt=&quot;image-title-here&quot; /&gt; &lt;/span&gt;&lt;/p&gt; &lt;pre&gt; &lt;/pre&gt; &lt;h4 id=&quot;variabel-&quot;&gt;Variabel :&lt;/h4&gt; &lt;ol&gt; &lt;li&gt;page.id...</content>
  </entry>
