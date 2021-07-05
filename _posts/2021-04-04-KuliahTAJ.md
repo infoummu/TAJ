@@ -26,7 +26,7 @@ Disampaikan ke semua mahasiswa bahwa UAS Pengganti Untuk Mata Kuliah Teknologi A
 
 
 
-* Untuk Yang TIDAK MENGAMBIL KP dan Kls Pegawai, silahkan buat MAKALAH  dengan MEMILIH salah satu judul dibawah ini : 
+* Untuk Yang TIDAK MENGAMBIL KP dan Juga Kelas Pegawai, sebagai pengganti UAS anda, silahkan buat MAKALAH  dengan MEMILIH salah satu judul/tema dibawah ini : 
 1. Komunikasi Antar Jaringa 
 2. Konfigurasi Dasar Perankat Mikrotik Router 
 3. Application, Presentation dan Session pada Standar OSI
@@ -45,11 +45,14 @@ Disampaikan ke semua mahasiswa bahwa UAS Pengganti Untuk Mata Kuliah Teknologi A
 
 * Judul/Subjek/Subject Email-nya : MAKALAH-UAS_NPM (contoh : MAKALAH-UAS_18000)
 * Sertakan file dalam email dan Kirim ke elyas.uii14@gmail.com, 
+* Usahakan sudah dikirim sebelum 09/07/2021
+
+
+<pre>
 
 
 
-
-
+</pre>
 
 ***
 
